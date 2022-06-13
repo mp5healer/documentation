@@ -22,5 +22,8 @@ The account flag needs to set in **Customer Information** <br/>
 The codes were picked on either a monthly or 28 day basis.
 
 * When billing monthly, the software always assigns the code equal to the calendar day. <br/>
-e.g. the 14th day is always assigned to 14, the 20th day is always assigned code 20
+e.g. the 14th day is always assigned to 14, the 20th day is always assigned code 20 <br/>
 * When billing 28 days, the code is assigned based on a 28 day cycle so that every 28 days, the cycle starts over again
+* If your firm uses a combination of 28 day and monthly billing periods to meet customer requirements, refer to Default Billing Method in the Calendar to setup the billing day codes correctly, and activate the Respect Customer Cycle Bill Interval option in the Company Billing Parameters so that individual customers can be flagged ith their billing preference in Customer Billing Settings.
+
+If your firm uses a combination of 28 day and monthly billing periods to meet customer requirements, refer to Default Billing Method in the Calendar to setup the billing day codes correctly, and activate the Respect Customer Cycle Bill Interval option in the Company Billing Parameters so that individual customers can be flagged ith their billing preference in Customer Billing Settings.
